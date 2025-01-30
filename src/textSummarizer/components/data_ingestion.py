@@ -4,6 +4,7 @@ import zipfile
 from src.textSummarizer.logging import logger
 
 from src.textSummarizer.entity import DataIngestionConfig
+import pandas 
 
 
 class DataIngestion:
